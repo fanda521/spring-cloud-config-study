@@ -1,1 +1,2 @@
-spring.info=aaa
+config:
+    info: "dev branch,springcloud-config/config-dev.yml version=1"
